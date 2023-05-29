@@ -1,3 +1,14 @@
+# Ongoing Development:
+Please note that this GitHub repository is currently under active development, and some minor issues with the code may be present.
+
+# TO DO:
+- Develop additional backtesting bots for various trading strategies.
+- Thoroughly model the available data points.
+- Expand the repository with more stock and trading data for enhanced user engagement and experimentation.
+- Ultimate Goal: Develop a live trading bot leveraging a well-trained model.
+
+This list provides an overview of the planned improvements, aimed at enhancing the effectiveness and utility of this repository for trading strategy analysis and live trading.
+
 # Trading Strategy Outcome Prediction
 
 ## Introduction
