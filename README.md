@@ -1,5 +1,6 @@
 # Ongoing Development:
 Please note that this GitHub repository is currently under active development, and some minor issues with the code may be present.
+- First model is struggling with overfitting due to the small amount of data present. 
 
 # TO DO:
 - Develop additional backtesting bots for various trading strategies.
@@ -13,11 +14,11 @@ This list provides an overview of the planned improvements, aimed at enhancing t
 # Trading Strategy Outcome Prediction
 
 ## Introduction
-This project is an attempt to predict the outcome (win or loss) of a trading strategy. While many approaches focus on precise time-series predictions using models like LSTM, this project adopts a unique perspective. Instead of predicting exact prices, we are developing a model that classifies whether a particular trading strategy will result in a win or loss based on a specific set of rules.
+This project is an attempt to predict the outcome (win or loss) of a trading strategy. While many approaches focus on precise time-series predictions using models like LSTM, this project adopts a unique perspective. Instead of predicting exact prices, I am developing a model that classifies whether a particular trading strategy will result in a win or loss based on a specific set of rules.
 
-The hypothesis we put forward is that, instead of predicting specific price points, useful insights can be obtained by focusing on classifications of trade outcomes. To narrow down the scope, we are examining trades separately, distinguishing between buy trades and sell trades.
+The hypothesis I put forward is that, instead of predicting specific price points, useful insights can be obtained by focusing on classifications of trade outcomes. To narrow down the scope, I am examining trades separately, distinguishing between buy trades and sell trades.
 
-Our focus is on day trading, particularly on strategies utilizing 1-minute and 5-minute time frames. This is because we need thousands of trades for robust analysis and model building.
+The focus is on day trading, particularly on strategies utilizing 1-minute and 5-minute time frames. This is because I need thousands of trades for robust analysis and model building.
 
 ## Replicating the Project
 
