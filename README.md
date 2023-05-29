@@ -5,7 +5,6 @@ Please note that this GitHub repository is currently under active development, a
 
 # TO DO:
 - Develop additional backtesting bots for various trading strategies.
-- Thoroughly model the available data points.
 - Expand the repository with more stock and trading data for enhanced user engagement and experimentation.
 - Refactor some of the code.
 - Ultimate Goal: Develop a live trading bot leveraging a well-trained model.
