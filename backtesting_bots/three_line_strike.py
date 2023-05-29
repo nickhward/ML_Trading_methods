@@ -19,6 +19,8 @@ class Backtesting:
         self.multiple = 1.5
         self.accountSize = 20
         self.profit = 0
+        self.loss = 2000
+        self.data = self.data.drop(self.data.index[range(200)])
         
     def backtesting(self, ticker: str, start_date: str, end_date: str, i: str) -> None:
 
