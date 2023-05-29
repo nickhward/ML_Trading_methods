@@ -1,6 +1,7 @@
 # Ongoing Development:
 Please note that this GitHub repository is currently under active development, and some minor issues with the code may be present.
 - First model is struggling with overfitting due to the small amount of data present. 
+- Currently trying to gather 1 minute data instead of 5 minute to increase the amount of trades that I can analyse. 
 
 # TO DO:
 - Develop additional backtesting bots for various trading strategies.
